@@ -2,13 +2,13 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
 		<Metadata name="CommonModule.ТинькоффApiВызовСервера" id="d5007289-d07e-4c67-a224-3487e47034e7" configVersion="8fff7c11fa991f5e03879e9fe99d6ba14a1a4dea"/>
-		<Metadata name="CommonModule.ТинькоффApiВызовСервера.Module" id="d5007289-d07e-4c67-a224-3487e47034e7.0" configVersion="9f6fbc26094f57b59bdfcf0fadcad7b60b5fb804"/>
+		<Metadata name="CommonModule.ТинькоффApiВызовСервера.Module" id="d5007289-d07e-4c67-a224-3487e47034e7.0" configVersion="e71fc5f4a5a52bb38c6f13ebff9b7982b812d21c"/>
 		<Metadata name="CommonModule.ТинькоффApiКлиент" id="8d9c34e9-7518-4530-a60f-42a1ce1a3950" configVersion="8c939c4081d8885f79901e04cd5a720eb90fad67"/>
-		<Metadata name="CommonModule.ТинькоффApiКлиент.Module" id="8d9c34e9-7518-4530-a60f-42a1ce1a3950.0" configVersion="88cc9cf456ec40941438c78959d42b711b81ca98"/>
+		<Metadata name="CommonModule.ТинькоффApiКлиент.Module" id="8d9c34e9-7518-4530-a60f-42a1ce1a3950.0" configVersion="2b519284baa70d89af755f523eeaf4d4967f7a6d"/>
 		<Metadata name="CommonModule.ТинькоффApiСервер" id="227f77d4-ae6a-4860-abeb-5ccbbc1f52e7" configVersion="0e4b110abe2e9dc1b6359585af3fbf07183229f1"/>
-		<Metadata name="CommonModule.ТинькоффApiСервер.Module" id="227f77d4-ae6a-4860-abeb-5ccbbc1f52e7.0" configVersion="b6dfbdc64cbc1bb0e102f05e8a244b0ae0bd532e"/>
-		<Metadata name="Configuration.RestApiКлиентТинькоффБанка" id="73c453c7-813e-4366-96e6-94bb948d911e" configVersion="a64da14e567323e1f3b569033d3e720585e947b2"/>
-		<Metadata name="Language.Русский" id="4ce7d7db-07c0-4baf-be97-a967b383fdc5" configVersion="b27c11391776c321c43a8eb63107e741b80a063f"/>
+		<Metadata name="CommonModule.ТинькоффApiСервер.Module" id="227f77d4-ae6a-4860-abeb-5ccbbc1f52e7.0" configVersion="989b1ef10209b77a344ad3cd75f94f74307e8e87"/>
+		<Metadata name="Configuration.RestApiКлиентТинькоффБанка" id="73c453c7-813e-4366-96e6-94bb948d911e" configVersion="26ad9aa441117239bb3755e3c9ad1abc2ddbdc1a"/>
+		<Metadata name="Language.Русский" id="4ce7d7db-07c0-4baf-be97-a967b383fdc5" configVersion="4cf314e4e6f9e3e8c091e2a33a89e1f62855438f"/>
 		<Metadata name="Subsystem.ТинькоффApi" id="2d6a6e16-66bf-4407-b86e-da1dca84e9f1" configVersion="ea9f77c4ee8d70bbdd1fe8aa47a7758d09283aa2"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
